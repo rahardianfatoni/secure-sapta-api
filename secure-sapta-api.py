@@ -3,7 +3,7 @@ import uvicorn
 
 app = FastAPI()
 
-API_KEY = 'salah_test'
+API_KEY = 'test'
 
 students = {
     "Aqila": {
